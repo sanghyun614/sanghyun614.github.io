@@ -19,32 +19,4 @@ Data Scientist
 | 맛집 추천 시스템 	| 2018.11 	| 분석<br>모델링 	| 협업필터링을 활용한 <br>Github 맛집 추천 시스템 	|
 | 동물 멸종 위기 등급 예측 	| 2019.2 - 현재 	| 기획/디자인<br>데이터 크롤링 	| 동물을 살리자 <br>지구를 아끼자 	|
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sanghyun614/sanghyun614.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+깃헙... 쉽지 않군
