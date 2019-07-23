@@ -6,7 +6,10 @@ Data Scientist (25, 男)
 
 - Github : [https://github.com/sanghyun614](https://github.com/sanghyun614)
 - Mail : shan614@g.skku.edu
+
 <br>
+<br>
+
 11살부터 19살까지 두바이에 살았습니다. 첫 대학은 미국으로 진학했지만 한 학기만에 한국으로 들어와 한국 살이를 시작했습니다.
 
 통계학과에 진학해 학회 활동을 하며 데이터 분석에 관심을 가졌습니다. 금융, 통신, 게임, 스포츠 등 많은 데이터를 만져봤지만 아직도 다루고 싶은 데이터가 너무나도 많습니다. 
