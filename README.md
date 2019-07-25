@@ -23,7 +23,7 @@ Data Scientist (25, 男)
 | [맛집 추천 시스템](https://github.com/sanghyun614/Restaurant-RecSys) 	| 2018.11 	| 데이터 수집<br>모델링 	| 하이브리드필터링을 활용한 <br> 맛집 추천 시스템 	|
 | [동물 멸종 위기 등급 예측](https://github.com/sanghyun614/Endangered-Species) 	| 2019.2 <br>- 현재 	| 기획/디자인<br>데이터 크롤링 	| 학부생 연구 프로그램 <br> URP 	|
 | Airbnb 가격 예측 	| 2018.5 | 기획/디자인<br>데이터 전처리 	| Airbnb 가격 예측 <br> 및 요인 분석 	|
-| 게임 유저 이탈 예측 	| 2018.8 | 데이터 전처리<br>모델링 	| 게임 유저 이탈 예측 <br> 및 이유 해석 	|
+| [게임 유저 이탈 예측](https://github.com/sanghyun614/Game_User_Churn/blob/master/Game_User_Churn.pdf) 	| 2018.8 | 데이터 전처리<br>모델링 	| 게임 유저 이탈 예측 <br> 및 이유 해석 	|
 
 ### 경력
 
