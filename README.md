@@ -20,8 +20,8 @@ Data Scientist (25, 男)
 | 인플루언서 지수를 활용한 <br> 화장품 주가 예측 | 2018.8 | 모델링<br>데이터 전처리 | 미래에셋대우 빅데이터 페스티벌 <br>최종 등수 : **1등** / 176팀
 | 온라인 행동 데이터를 활용한 <br> 수요 트렌드 예측 | 2019.2 |  모델링<br>데이터 엔지니어링 	| L.Point Big Data Competition <br>  최종 등수 : **3등** / 674팀 	|
 | 군집별 농구선수 기여도 분석 | 2019.1 	| 분석<br>모델링 	| 프로농구 데이터활용 경진대회 <br> 최종 등수 : **2등** / 41팀 	|
-| [맛집 추천 시스템](https://github.com/sanghyun614/Restaurant-RecSys) 	| 2018.11 	| 기획/디자인<br>데이터 전처리	| 하이브리드필터링을 활용한 <br> 맛집 추천 시스템 	|
 | [동물 멸종 위기 등급 예측](https://github.com/sanghyun614/Endangered-Species) 	| 2019.2 <br>- 현재 	| 기획/디자인<br>데이터 전처리 | 학부생 연구 프로그램 <br> URP 	|
+| [맛집 추천 시스템](https://github.com/sanghyun614/Restaurant-RecSys) 	| 2018.11 	| 기획/디자인<br>데이터 전처리	| 하이브리드필터링을 활용한 <br> 맛집 추천 시스템 	|
 | Airbnb 가격 예측 	| 2018.5 | 모델링<br>데이터 전처리 	| Airbnb 가격 예측 <br> 및 요인 분석 	|
 | [게임 유저 이탈 예측](https://github.com/sanghyun614/Game_User_Churn/blob/master/Game_User_Churn.pdf) 	| 2018.8 | 데이터 전처리<br>모델링 	| 게임 유저 이탈 예측 <br> 및 이유 해석 	|
 
