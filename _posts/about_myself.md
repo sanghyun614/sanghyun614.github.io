@@ -1,3 +1,9 @@
+---
+title: "About Myself"
+date: 2020-02-21 00:56:28 -0400
+categories: jekyll update
+---
+
 ## About
 
 Data Scientist (25, 男)
